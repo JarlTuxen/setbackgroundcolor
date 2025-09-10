@@ -1,3 +1,7 @@
+"use strict";
+
+let x=3;
+
 let inp = document.querySelector(".inpColor");
 console.log(inp);
 
